@@ -1,0 +1,19 @@
+.w
+{
+font-size: 120%;
+  color: red;
+}
+.x
+{
+font-size: 100%;
+  color: green;
+  background-color: tomato;
+  color: white;
+  padding: 10px;
+}
+.y
+{
+background-color: blue;
+  color: white;
+  padding: 10px;
+ }
