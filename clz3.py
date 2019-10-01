@@ -3,16 +3,16 @@ def init (self,a,b):
 
 self.name=a
 
-self age=b
+self.age=b
 class Employee (Person)
-def _init_(self, a, b, id, salary):
+def __init__(self,a,b,id,salary):
 
-super(). _Init(a,b)
+super().__init(a,b)
 self.id=id
 
 self.salary=salary
 def show(self):
 
-print("name:",self.name,"Anage:",self.age, "empd: ", self,id, "nsalary: ",se
-e=Employee("elmin', 2525035000
+print("name:",self.name,"/nage:",self.age,"/nempd: ",self.id,"/nsalary: ",self.salarary)
+e=Employee("elwin",25,350,25035000)
 e.show()
